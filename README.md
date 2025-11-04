@@ -1,6 +1,6 @@
 # Finance App
 
-A full-stack finance tracking application built with FastAPI and React. This application allows users to track their income and expenses with a clean and intuitive interface.
+A finance tracking application built with FastAPI and React. This application allows users to track their income and expenses with a clean and intuitive interface.
 
 ## 🚀 Features
 
